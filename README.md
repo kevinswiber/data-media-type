@@ -2,6 +2,11 @@
 
 A Node.js module for finding IANA registered names for common data types.
 
+See also:
+
+* [`hypermedia-type`](https://github.com/kevinswiber/hypermedia-type) - contains common hypermedia types
+* [`api-media-type`](https://github.com/kevinswiber/api-media-type) - combines data-media-type and hypermedia-type
+
 ## Install
 
 `$ npm install data-media-type`
