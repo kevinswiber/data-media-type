@@ -1,0 +1,29 @@
+{
+  "name": "data-media-type",
+  "version": "0.1.0",
+  "description": "A Node.js module for finding IANA registered names for common data types.",
+  "main": "data_media_type.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/kevinswiber/data-media-type.git"
+  },
+  "keywords": [
+    "mime",
+    "media",
+    "type",
+    "data",
+    "json",
+    "xml",
+    "urlencoded",
+    "form",
+    "multipart"
+  ],
+  "author": "Kevin Swiber <kswiber@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kevinswiber/data-media-type/issues"
+  }
+}
